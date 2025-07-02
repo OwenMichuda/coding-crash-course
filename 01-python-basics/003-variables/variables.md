@@ -1,0 +1,3 @@
+## Variables
+
+In Python, a variable is a name that stores a value so you can use it later in your program. You can think of it like a labeled container: when you write age = 27, you're assigning the value 27 to the variable age. This allows you to refer to that value by name, instead of repeating the number throughout your code. Variables can store many types of data, such as numbers, text (called strings), or even lists. They make your code more readable, reusable, and easier to manage.

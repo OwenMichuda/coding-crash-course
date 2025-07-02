@@ -30,19 +30,3 @@ The Python Interpreter! We don't need to know the details of how the interpreter
 So when we write Python code, we’re writing instructions that are friendly to us, and we rely on the interpreter to bridge the gap between our human-readable logic and the computer’s low-level execution. A lot of details were left out, but this is the general gist :)
 
 One last quick note on terminals (aka command line, consoles, etc). This is how we actually pass the instruction to our computer. You're probably reading this text on an IDE (integrated development environment), which is really just a fancy way to edit files. But once we want actually execute code, we need to use the terminal to pass the instruction. Luckily for us, our IDE often has ways to use the terminal directly in a more user-friendly manner. For example, in the project tree, right-click on src/birdbrain.py and hit Run **Python File in Terminal**. You'll see two arguments were passed to the terminal: the file path for what interpreter to use (should end in python), and the file to execute. And on the next line, the output from our program. This will be our main way of executing code.
-
-## Printing Messages
-
-"Hello, world!" The famous exclamation that should be the first thing you learn how to do with a new language. You type in a few characters into your computer, and it actually does something! Pretty neat. 
-
-In python, this is accomplished with the `print()` function. It simply writes a message to your screen.
-
-```python
-print("Hello, world!")
-```
-
-Try it out now in printing.py!
-
-## Variables
-
-In Python, a variable is a name that stores a value so you can use it later in your program. You can think of it like a labeled container: when you write age = 27, you're assigning the value 27 to the variable age. This allows you to refer to that value by name, instead of repeating the number throughout your code. Variables can store many types of data, such as numbers, text (called strings), or even lists. They make your code more readable, reusable, and easier to manage.
