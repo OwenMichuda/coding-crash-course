@@ -18,3 +18,4 @@ def test_height():
 
 def test_is_right():
     assert isinstance(is_right, bool)
+    assert is_right is False, "come on, let's be honest"
