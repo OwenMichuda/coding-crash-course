@@ -1,7 +1,7 @@
 # After you fill everything in, save the file and run the 'test_data_types.py'
 
 # 1. Assign your name as a string to the variable below.
-my_name = "..."
+my_name = ...
 
 # 2. What is the data type of the value "EAT MY SHORTS!"?
 #    Replace '...' with the correct type: str, int, float, or bool
