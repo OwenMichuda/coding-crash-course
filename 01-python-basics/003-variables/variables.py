@@ -6,15 +6,15 @@ age = 24
 # We will go over data types next.
 print("My name is " + name + " and I am " + str(age) + " years old.")
 
-# Now define the following:
+# Now define the following (... means you need to fill in the blanks):
 # Assign your full name as a string
-full_name = ???
+full_name = ...
 
 # Assign your age as an integer
-age = ???
+age = ...
 
 # Assign your height in meters as a float (e.g., 1.75)
-height = ???
+height = ...
 
 # Assign whether you are right or not as a boolean
-is_right = ???
+is_right = ...
