@@ -7,9 +7,8 @@ I already know you're going to know most of this, but we have to start somewhere
 2. Print
 3. Variables
 4. Data types
-5. User Input
-6. Math
-7. Comparison Operators
+5. Math
+6. Comparison Operators
 
 ## Coding
 
